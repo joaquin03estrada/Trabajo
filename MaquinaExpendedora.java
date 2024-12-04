@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class MaquinaExpendedora implements Carrito {
 
+	//Test
 	 //Crear un HashSet para los productos que ya se compraron
 	 HashSet<String> productosIncluidosVenta = new HashSet<>();
 	 ArrayList<Producto> productos = new ArrayList<>();
